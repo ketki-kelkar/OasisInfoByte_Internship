@@ -1,0 +1,38 @@
+*{
+    background-color:#141640;
+    color: white;
+}
+#title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+.font{
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 150%;
+}
+.logo{
+    height: 15%;
+    width: 15%;
+    border-radius: 50%;
+}
+.center {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: auto;
+    text-align: center;
+    list-style-position: inside
+  }
+
+.border{
+        border-top:2px solid white;
+}
+#image {
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
